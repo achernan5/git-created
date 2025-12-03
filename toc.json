@@ -1,0 +1,19 @@
+{
+  "collapseTableOfContents": false,
+  "items": [
+    {
+      "type": "divider",
+      "title": "APIS"
+    },
+    {
+      "type": "item",
+      "title": "three-one",
+      "uri": "refernce/three-one"
+    },
+    {
+      "type": "item",
+      "title": "three-zero",
+      "uri": "/reference/three-zero.yaml"
+    }
+  ]
+}
